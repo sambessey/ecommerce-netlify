@@ -16,6 +16,15 @@
           <nuxt-link to="/men">Men</nuxt-link>
         </li>
         <li>
+          <nuxt-link to="/men">Kids</nuxt-link>
+        </li>
+          <li>
+          <nuxt-link to="/men">Furniture & Electronics</nuxt-link>
+        </li>
+        <li>
+          <nuxt-link to="/men">Wedding</nuxt-link>
+        </li>
+        <li>
           <div class="carttotal" v-if="cartCount > 0">{{ cartCount }}</div>
           <nuxt-link to="/cart">Cart</nuxt-link>
         </li>

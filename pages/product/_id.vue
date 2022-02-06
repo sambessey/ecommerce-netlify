@@ -100,8 +100,11 @@ export default {
       this.tempcart.push(item);
       this.$store.commit("addToCart", {...item});
     }
-  }
-};
+  },
+  mounted(){
+  localStorage.product = JSON.stringify(this.product);
+}
+}
 </script>
 
 <style lang="scss" scoped>

@@ -33,26 +33,26 @@ export default {};
   grid-row-gap: 0px;
   .new {
     grid-area: 1 / 1 / 5 / 4;
-    font-size: 23vmin;
+    font-size: calc(min(max(16px, 23vw), 250px));
     color: #efefef;
     text-transform: uppercase;
   }
   .sale {
     grid-area: 2 / 2 / 3 / 4;
-    font-size: 6.5vmin;
+    font-size: calc(min(max(16px, 6.5vw), 60px));
     color: #d96528;
     font-family: "PT Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
       Roboto, "Helvetica Neue", Arial, sans-serif;
   }
   .collection {
     grid-area: 3 / 3 / 4 / 4;
-    font-size: 8.5vmin;
+    font-size: calc(min(max(16px, 8.5vw), 70px));
     font-family: "PT Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
       Roboto, "Helvetica Neue", Arial, sans-serif;
   }
   .details {
     grid-area: 4 / 2 / 5 / 4;
-    font-size: 2vmin;
+    font-size: calc(min(max(8px, 2vw), 25px));
     letter-spacing: 0.2em;
     text-transform: uppercase;
   }

@@ -8,7 +8,11 @@
     "review": "productize virtual markets",
     "starrating": 3,
     "price": 50.4,
-    "img": "1.jpg"
+    "img": "1.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "bfa86b1c-9ebf-4555-987f-7b8bf7d27be7",
@@ -19,7 +23,11 @@
     "review": "deploy efficient mindshare",
     "starrating": 4,
     "price": 33.99,
-    "img": "2.jpg"
+    "img": "2.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "eca6b1c7-6b8c-4416-aae0-98cecdc18e92",
@@ -30,7 +38,11 @@
     "review": "mesh sticky content",
     "starrating": 3,
     "price": 102.99,
-    "img": "3.jpg"
+    "img": "3.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "440e2eac-67ed-4407-993a-d9f6b7f15087",
@@ -46,7 +58,11 @@
       "Medium",
       "Large"
     ],
-    "img": "4.jpg"
+    "img": "4.jpg",
+    "category":{
+      "toplevel":"Outerwear",
+      "subcategory":"Jackets"
+    }
   },
   {
     "id": "38543b28-3b0e-4886-a108-b58419bcef94",
@@ -132,7 +148,11 @@
     "review": "benchmark synergistic bandwidth",
     "starrating": 3,
     "price": 50.0,
-    "img": "10.jpg"
+    "img": "10.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "19bdee56-525a-4cb7-bfeb-c6f46b6d639a",
@@ -148,7 +168,11 @@
       "Medium",
       "Large"
     ],
-    "img": "11.png"
+    "img": "11.png",
+    "category":{
+      "toplevel":"Outerwear",
+      "subcategory":"Jackets"
+    }
   },
   {
     "id": "f8b11f7c-1306-4658-a66c-d1704e728349",
@@ -208,7 +232,11 @@
     "review": "revolutionize vertical systems",
     "starrating": 5,
     "price": 33.99,
-    "img": "16.jpg"
+    "img": "16.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "0bdf8654-7d44-46f5-bb1f-115b16b42344",
@@ -235,7 +263,11 @@
     "review": "innovate holistic markets",
     "starrating": 4,
     "price": 12.99,
-    "img": "18.jpg"
+    "img": "18.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "8aa13b42-b074-43d2-8dcc-f3f1010f3adb",
@@ -262,7 +294,11 @@
     "review": "unleash synergistic models",
     "starrating": 5,
     "price": 33.99,
-    "img": "1.jpg"
+    "img": "1.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "85641bb6-04e5-4393-be3e-1d4dea46cd54",
@@ -273,7 +309,11 @@
     "review": "unleash strategic platforms",
     "starrating": 4,
     "price": 50.99,
-    "img": "2.jpg"
+    "img": "2.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "1c8665b9-87cd-40d4-bc90-b28943825bd0",
@@ -284,7 +324,11 @@
     "review": "orchestrate visionary paradigms",
     "starrating": 4,
     "price": 50.99,
-    "img": "3.jpg"
+    "img": "3.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "e0bce42b-e2cf-4aa2-805b-f4bbd8517d2a",
@@ -386,7 +430,11 @@
     "review": "recontextualize B2B markets",
     "starrating": 3,
     "price": 190.0,
-    "img": "10.jpg"
+    "img": "10.jpg",
+    "category":{
+      "toplevel":"Accessories",
+      "subcategory":"Watches"
+    }
   },
   {
     "id": "f92c7d89-78e9-4616-8876-e0088c53483e",
