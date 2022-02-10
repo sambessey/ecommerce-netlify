@@ -9,9 +9,9 @@
       "starrating": "3",
       "price": "50.4",
       "img": "1.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": "",
-      "Properties": "[\"Formal\",\"Smart\"]"
+      "Properties": ["Formal","Smart"]
   },
   {
       "id": "pioneer-mens-watch",
@@ -23,9 +23,9 @@
       "starrating": "4",
       "price": "33.99",
       "img": "2.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": "",
-      "Properties": "[\"Formal\",\"Smart\"]"
+      "Properties": ["Formal","Smart"]
   },
   {
       "id": "ambassador-navy-watch",
@@ -37,9 +37,9 @@
       "starrating": "3",
       "price": "102.99",
       "img": "3.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": "",
-      "Properties": "[\"Formal\",\"Smart\"]"
+      "Properties": ["Formal","Smart"]
   },
   {
       "id": "mandarin-sports-zipup",
@@ -51,9 +51,9 @@
       "starrating": "5",
       "price": "64.5",
       "img": "4.jpg",
-      "category": "{\"toplevel\":\"Outerwear\",\"subcategory\":\"Jackets\"}",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]",
-      "Properties": "[\"Sports\",\"Premium\",\"Breathable\"]"
+      "category": {"toplevel":"Outerwear","subcategory":"Jackets"},
+      "sizes": ["Small","Medium","Large"],
+      "Properties": ["Sports","Premium","Breathable"]
   },
   {
       "id": "suede-chelsea-boot",
@@ -67,7 +67,7 @@
       "img": "5.png",
       "category": "",
       "sizes": "",
-      "Properties": "[\"Formal\",\"Smart\"]"
+      "Properties": ["Formal","Smart"]
   },
   {
       "id": "perry-haughton-knit-jumper",
@@ -80,8 +80,8 @@
       "price": "19.99",
       "img": "6.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]",
-      "Properties": "[\"Premium\",\"Natural\",\"Smart\"]"
+      "sizes": ["Small","Medium","Large"],
+      "Properties": ["Premium","Natural","Smart"]
   },
   {
       "id": "chester-organic-cotton-shirt",
@@ -94,8 +94,8 @@
       "price": "130",
       "img": "7.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]",
-      "Properties": "[\"Organic\",\"Australian Made\",\"Smart\"]"
+      "sizes": ["Small","Medium","Large"],
+      "Properties": ["Organic","Australian Made","Smart"]
   },
   {
       "id": "kathye-haith",
@@ -108,7 +108,7 @@
       "price": "120.99",
       "img": "8.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "armin-basilio",
@@ -121,7 +121,7 @@
       "price": "20.99",
       "img": "9.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "cal-sterman",
@@ -133,7 +133,7 @@
       "starrating": "3",
       "price": "50",
       "img": "10.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -146,8 +146,8 @@
       "starrating": "4",
       "price": "65",
       "img": "11.png",
-      "category": "{\"toplevel\":\"Outerwear\",\"subcategory\":\"Jackets\"}",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "category": {"toplevel":"Outerwear","subcategory":"Jackets"},
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "noella-ruddom",
@@ -160,7 +160,7 @@
       "price": "72",
       "img": "12.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "kirstyn-espadate",
@@ -211,7 +211,7 @@
       "starrating": "5",
       "price": "33.99",
       "img": "16.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -225,7 +225,7 @@
       "price": "13.99",
       "img": "17.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "micheline-charlson",
@@ -237,7 +237,7 @@
       "starrating": "4",
       "price": "12.99",
       "img": "18.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -251,7 +251,7 @@
       "price": "154.99",
       "img": "19.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "chet-corke",
@@ -263,7 +263,7 @@
       "starrating": "5",
       "price": "33.99",
       "img": "1.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -276,7 +276,7 @@
       "starrating": "4",
       "price": "50.99",
       "img": "2.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -289,7 +289,7 @@
       "starrating": "4",
       "price": "50.99",
       "img": "3.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -303,7 +303,7 @@
       "price": "19.99",
       "img": "4.jpg",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "bogey-cheyne",
@@ -329,7 +329,7 @@
       "price": "19.99",
       "img": "6.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "hadrian-hambatch",
@@ -342,7 +342,7 @@
       "price": "190.99",
       "img": "7.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "franciska-hallett",
@@ -355,7 +355,7 @@
       "price": "20",
       "img": "8.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "andrej-wilfing",
@@ -368,7 +368,7 @@
       "price": "15.99",
       "img": "9.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   },
   {
       "id": "rori-marishenko",
@@ -380,7 +380,7 @@
       "starrating": "3",
       "price": "190",
       "img": "10.jpg",
-      "category": "{\"toplevel\":\"Accessories\",\"subcategory\":\"Watches\"}",
+      "category": {"toplevel":"Accessories","subcategory":"Watches"},
       "sizes": ""
   },
   {
@@ -394,6 +394,6 @@
       "price": "35.99",
       "img": "11.png",
       "category": "",
-      "sizes": "[\"Small\",\"Medium\",\"Large\"]"
+      "sizes": ["Small","Medium","Large"]
   }
 ]
