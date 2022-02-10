@@ -40,7 +40,7 @@ export default {};
   .sale {
     grid-area: 2 / 2 / 3 / 4;
     font-size: calc(min(max(16px, 6.5vw), 60px));
-    color: #d96528;
+    color: #9c00f7;
     font-family: "PT Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
       Roboto, "Helvetica Neue", Arial, sans-serif;
   }
