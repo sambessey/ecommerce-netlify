@@ -1,21 +1,25 @@
 <template>
+
   <div class="textlockup">
     <div class="img">
       <slot name="img">
-        <img src="/shoe1.jpg" alt="shoe" />
+        <img src="/banners/group_banner.jpg" alt="shoe" id="hero" />
       </slot>
     </div>
     <div class="new">
-      <slot name="new">New</slot>
+      <slot name="new">Shop Now</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Men Shoes</slot>
+      <slot name="sale">Amp up your fitness this year</slot>
     </div>
-    <div class="collection">
+   <!-- <div class="collection">
       <slot name="collection">Collection</slot>
     </div>
     <div class="details">
       <slot name="details">Street Style New Fashion</slot>
+    </div>-->
+    <div class="collection">
+      <slot name="collection">Shop the Amped Athlete range</slot>
     </div>
   </div>
 </template>
@@ -27,28 +31,41 @@ export default {};
 <style lang="scss" scoped>
 .textlockup {
   display: grid;
-  grid-template-columns: 50px 100px 1fr;
-  grid-template-rows: 50px 50px 100px 20px 1fr;
+  grid-template-columns: 50px 300px 100px 1fr 50px;
+  grid-template-rows: 50px 260px 50px 50px;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   .new {
-    grid-area: 1 / 1 / 5 / 4;
-    font-size: calc(min(max(16px, 23vw), 250px));
-    color: #efefef;
+    grid-area: 3 / 2 / 3 / 3;
+    font-size: calc(min(max(16px, 2vw), 200px));
+    color: #000000;
+    font-family: "Montserrat";
+    text-align: center;
+    vertical-align: middle;
+    font-weight: 700;
     text-transform: uppercase;
+    border-width:2px; 
+    border-style:solid; 
+    border-color:#000000;
+    background-color:#FFFFFFDD; 
   }
   .sale {
     grid-area: 2 / 2 / 3 / 4;
     font-size: calc(min(max(16px, 6.5vw), 60px));
-    color: #9c00f7;
-    font-family: "PT Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, "Helvetica Neue", Arial, sans-serif;
+    color: #000000;
+    font-size: 40px;
+    font-family: "Montserrat";
+    font-weight: 700;
+    text-transform: uppercase;
   }
   .collection {
-    grid-area: 3 / 3 / 4 / 4;
-    font-size: calc(min(max(16px, 8.5vw), 70px));
-    font-family: "PT Serif", -apple-system, BlinkMacSystemFont, "Segoe UI",
-      Roboto, "Helvetica Neue", Arial, sans-serif;
+    grid-area: 5 / 1 / 5 / 6;
+    font-size: calc(min(max(16px, 8.5vw), 50px));
+    font-family: "Montserrat";
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align:center;
+    font-style:italic;
   }
   .details {
     grid-area: 4 / 2 / 5 / 4;
@@ -57,10 +74,12 @@ export default {};
     text-transform: uppercase;
   }
   .img {
-    max-width: 950px;
-    grid-area: 1 / 3 / 6 / 4;
-    img {
-      width: 95%;
+    grid-area: 1 / 1 / 5 / 6;
+    #hero {
+      width: 100%;
+    height: 95%;
+    object-fit: cover;
+    object-position: 50% 60%;
     }
   }
 }

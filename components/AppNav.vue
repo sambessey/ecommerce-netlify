@@ -1,6 +1,7 @@
 <template>
   <header>
-    <h1>Aster & Bell</h1>
+    <div id="logo-circle"><img id="logo-flash" src="brand/Amped.png"/></div>
+    <h1 class="logo">A m p e d</h1>
     <nav>
       <ul>
         <li>
@@ -19,10 +20,10 @@
           <nuxt-link to="/men">Kids</nuxt-link>
         </li>
           <li>
-          <nuxt-link to="/men">Furniture & Electronics</nuxt-link>
+          <nuxt-link to="/men">Classes & Group Fitness</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/men">Wedding</nuxt-link>
+          <nuxt-link to="/men">Nutrition</nuxt-link>
         </li>
         <li>
           <div class="carttotal" v-if="cartCount > 0">{{ cartCount }}</div>
@@ -50,6 +51,10 @@ header {
   flex-direction: column;
   align-items: center;
   padding: 40px 40px 0;
+}
+
+.logo{
+  margin-bottom:0px!important
 }
 
 nav {

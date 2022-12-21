@@ -52,8 +52,8 @@ h2 {
   padding-top: 21px;
   color: #555;
   &.active {
-    background: #9c00f7;
-    border: 1px solid #9c00f7;
+    background: #000001;
+    border: 1px solid #000001;
     color: white;
   }
 }

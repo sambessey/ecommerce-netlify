@@ -47,12 +47,12 @@ section {
 }
 
 h4 {
-  color: #9c00f7;
+  color: #000001;
   margin: 10px 0;
 }
 
 h2 {
-  color: #9c00f7;
+  color: #000001;
   text-align: center;
   overflow: hidden;
 }
