@@ -1,60 +1,64 @@
 [
-  {
-      "id": "navigator-mens-watch",
-      "color": "Goldenrod",
-      "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
-      "gender": "Male",
-      "name": "Navigator Mens Watch",
-      "review": "productize virtual markets",
-      "starrating": 3,
-      "price": "50.4",
-      "img": "1.jpg",
-      "category": {"toplevel":"Accessories","subcategory":"Watches"},
-      "sizes": "",
-      "Properties": ["Formal","Smart"]
-  },
-  {
-      "id": "pioneer-mens-watch",
-      "color": "Puce",
-      "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
-      "gender": "Male",
-      "name": "Pioneer Mens Watch",
-      "review": "deploy efficient mindshare",
-      "starrating": 4,
-      "price": "33.99",
-      "img": "2.jpg",
-      "category": {"toplevel":"Accessories","subcategory":"Watches"},
-      "sizes": "",
-      "Properties": ["Formal","Smart"]
-  },
-  {
-      "id": "ambassador-navy-watch",
-      "color": "Orange",
-      "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
-      "gender": "Female",
-      "name": "Ambassador Navy Watch",
-      "review": "mesh sticky content",
-      "starrating": 3,
-      "price": "102.99",
-      "img": "3.jpg",
-      "category": {"toplevel":"Accessories","subcategory":"Watches"},
-      "sizes": "",
-      "Properties": ["Formal","Smart"]
-  },
-  {
-      "id": "mandarin-sports-zipup",
-      "color": "Teal",
-      "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\r\n\r\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-      "gender": "Female",
-      "name": "Mandarin Sports Zipup",
-      "review": "integrate front-end infomediaries",
-      "starrating": 5,
-      "price": "64.5",
-      "img": "4.jpg",
-      "category": {"toplevel":"Outerwear","subcategory":"Jackets"},
-      "sizes": ["Small","Medium","Large"],
-      "Properties": ["Sports","Premium","Breathable"]
-  },
+    {
+        "id": "brielle-tank",
+        "color": "Goldenrod",
+        "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+        "gender": "Male",
+        "name": "Brielle Tank Training Top",
+        "review": "productize virtual markets",
+        "starrating": 3,
+        "price": "50.4",
+        "img": "1.jpg",
+        "category": {"toplevel":"Accessories","subcategory":"Watches"},
+        "sizes": "",
+        "Properties": ["Formal","Smart"],
+        "experience": "cdpAmp"
+    },
+    {
+        "id": "train-full-zip-jacket",
+        "color": "Puce",
+        "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "gender": "Male",
+        "name": "Train Full Zip Jacket",
+        "review": "deploy efficient mindshare",
+        "starrating": 4,
+        "price": "33.99",
+        "img": "2.jpg",
+        "category": {"toplevel":"Accessories","subcategory":"Watches"},
+        "sizes": "",
+        "Properties": ["Formal","Smart"],
+        "experience": "cdpAmp"
+    },
+    {
+        "id": "mccarren-track-top",
+        "color": "Orange",
+        "description": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "gender": "Female",
+        "name": "McCarren Track Top",
+        "review": "mesh sticky content",
+        "starrating": 3,
+        "price": "102.99",
+        "img": "3.jpg",
+        "category": {"toplevel":"Accessories","subcategory":"Watches"},
+        "sizes": "",
+        "Properties": ["Formal","Smart"],
+        "experience": "cdpAmp"
+    },
+    {
+        "id": "swift-short",
+        "color": "Teal",
+        "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\r\n\r\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "gender": "Female",
+        "name": "Swift Short",
+        "review": "integrate front-end infomediaries",
+        "starrating": 5,
+        "price": "64.5",
+        "img": "4.jpg",
+        "category": {"toplevel":"Outerwear","subcategory":"Jackets"},
+        "sizes": ["Small","Medium","Large"],
+        "Properties": ["Sports","Premium","Breathable"],
+        "experience": "cdpAmp"
+    },
   {
       "id": "suede-chelsea-boot",
       "color": "Yellow",
@@ -67,7 +71,8 @@
       "img": "5.png",
       "category": "",
       "sizes": "",
-      "Properties": ["Formal","Smart"]
+      "Properties": ["Formal","Smart"],
+      "experience": "cdpDet"
   },
   {
       "id": "perry-haughton-knit-jumper",
@@ -81,7 +86,8 @@
       "img": "6.png",
       "category": "",
       "sizes": ["Small","Medium","Large"],
-      "Properties": ["Premium","Natural","Smart"]
+      "Properties": ["Premium","Natural","Smart"],
+      "experience": "cdpDet"
   },
   {
       "id": "chester-organic-cotton-shirt",
@@ -95,7 +101,8 @@
       "img": "7.png",
       "category": "",
       "sizes": ["Small","Medium","Large"],
-      "Properties": ["Organic","Australian Made","Smart"]
+      "Properties": ["Organic","Australian Made","Smart"],
+      "experience": "cdpDet"
   },
   {
       "id": "kathye-haith",
@@ -108,7 +115,8 @@
       "price": "120.99",
       "img": "8.png",
       "category": "",
-      "sizes": ["Small","Medium","Large"]
+      "sizes": ["Small","Medium","Large"],
+      "experience": "cdpDet"
   },
   {
       "id": "armin-basilio",

@@ -10,7 +10,8 @@
       <slot name="new">Shop Now</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Amp up your fitness this year</slot>
+      <slot name="sale">Amp up your fitness this year
+</slot>
     </div>
    <!-- <div class="collection">
       <slot name="collection">Collection</slot>

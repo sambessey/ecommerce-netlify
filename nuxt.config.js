@@ -45,11 +45,13 @@ export default {
   /*
    ** Global CSS
    */
-  css: ['normalize.css', { src: '~/assets/main.scss', lang: 'sass' }],
+  css: ['normalize.css', { src: '~/assets/main.scss', lang: 'sass' },  '@fortawesome/fontawesome-svg-core/styles.css'],
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [`~/plugins/currency-filter.js`],
+  plugins: [
+    `~/plugins/currency-filter.js`,
+    `~/plugins/fontawesome.js`],
   /*
    ** Nuxt.js modules
    */

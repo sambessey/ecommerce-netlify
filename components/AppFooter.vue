@@ -1,5 +1,6 @@
 <template>
   <footer>
+  <div id="footer"><span class='highlight-promotion'><font-awesome-icon icon="fa-solid fa-gift" style ="font-size:.9em"></font-awesome-icon>&nbsp;<b>FREE DELIVERY</b> ON YOUR FIRST ORDER!</span></div>z
     <section class="callout">
       <h2>"The surprising styles of Skyline Ivy are advanced for all seasons."</h2>
       <p>Hansel Andersen</p>

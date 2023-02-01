@@ -4,10 +4,11 @@
       <span>Featured Products</span>
     </h2>
     <div class="featureditems">
-      <div class="item" v-for="product in featuredProducts" :key="product.id">
-        <img :src="`/products/${product.img}`" />
-        <h3>{{ product.name }}</h3>
-        <h4>{{ product.price | dollar }}</h4>
+      <div class="item" :class="product.experience" v-for="product in featuredProducts" :key="product.id">
+        <img :src="`/products/${product.img}`" class="prod-image
+        "/>
+        <h3 class="highlight-product">{{ product.name }}</h3>
+        <h4 class="highlight-price">{{ product.price | dollar }}</h4>
         <NuxtLink :to="`/product/${product.id}`">
           <button class="multi-item">View Item ></button>
         </NuxtLink>
@@ -95,7 +96,7 @@ h2 span:after {
 @media screen and (min-width: 700px) {
   .featureditems {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr;
     grid-column-gap: 20px;
     grid-row-gap: 0px;

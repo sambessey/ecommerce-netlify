@@ -18,7 +18,7 @@
       "color": "Puce",
       "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
       "gender": "Male",
-      "name": "Pioneer Mens Watch",
+      "name": "Pioneer Sh Watch",
       "review": "deploy efficient mindshare",
       "starrating": 4,
       "price": "33.99",
@@ -42,11 +42,11 @@
       "Properties": ["Formal","Smart"]
   },
   {
-      "id": "mandarin-sports-zipup",
+      "id": "swift-short",
       "color": "Teal",
       "description": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.\r\n\r\nMorbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
       "gender": "Female",
-      "name": "Mandarin Sports Zipup",
+      "name": "Swift Short",
       "review": "integrate front-end infomediaries",
       "starrating": 5,
       "price": "64.5",
